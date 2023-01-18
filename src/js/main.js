@@ -10,7 +10,7 @@ window.addEventListener("DOMContentLoaded", () => {
         rightRateInfo = document.querySelector(".right_rate_info"),
         curList = document.querySelector("select");
 
-
+    let hello = "hello";
     let selectedTarget = "curName1";
     lCur.value = rCur.value = 0;
 
