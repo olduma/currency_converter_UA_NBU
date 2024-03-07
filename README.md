@@ -1,4 +1,4 @@
-# currency_converter_UA_NBU
+[# currency_converter_UA_NBU](https://olduma.github.io/currency_converter_UA_NBU/)
 JavaScript apps of currency converter.
 
 - this JavaScript code appears to be a currency converter, allowing users to convert between different currencies. The code includes several event listeners that listen for changes to the selected currency, the selected date, and the values entered in the input fields. When the user selects a new currency or date, the code fetches the latest exchange rates from a remote API, updates the display to show the new rates, and recalculates the conversion.
